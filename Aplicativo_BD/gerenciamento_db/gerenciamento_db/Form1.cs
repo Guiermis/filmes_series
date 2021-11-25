@@ -31,7 +31,7 @@ namespace gerenciamento_db
         {
             listBox1.Items.Clear();
 
-            SqlConnection conexao = new SqlConnection("Server=DESKTOP-IJEN2GO;Database=filmes_series;Trusted_Connection=True;");
+            SqlConnection conexao = new SqlConnection("Server=nomedamaquina;Database=filmes_series;Trusted_Connection=True;");
             SqlCommand comando;
             comando = new SqlCommand("SELECT * FROM lista", conexao);
 
@@ -49,7 +49,7 @@ namespace gerenciamento_db
 
         private void button2_Click(object sender, EventArgs e)
         {
-            SqlConnection conexao = new SqlConnection("Server=DESKTOP-IJEN2GO;Database=filmes_series;Trusted_Connection=True;");
+            SqlConnection conexao = new SqlConnection("Server=nomedamaquina;Database=filmes_series;Trusted_Connection=True;");
             SqlCommand comando;
             string strSQL = "INSERT INTO lista (nome, lancamento, servico_que_assistiu, nota) VALUES (@nome, @lancamento, @servico_que_assistiu, @nota)";
 
