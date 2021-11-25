@@ -1,0 +1,11 @@
+C:\Users\Guilherme Rodrigues\source\repos\gerenciamento_db\gerenciamento_db\bin\Debug\gerenciamento_db.exe.config
+C:\Users\Guilherme Rodrigues\source\repos\gerenciamento_db\gerenciamento_db\bin\Debug\gerenciamento_db.exe
+C:\Users\Guilherme Rodrigues\source\repos\gerenciamento_db\gerenciamento_db\bin\Debug\gerenciamento_db.pdb
+C:\Users\Guilherme Rodrigues\source\repos\gerenciamento_db\gerenciamento_db\obj\Debug\gerenciamento_db.csproj.AssemblyReference.cache
+C:\Users\Guilherme Rodrigues\source\repos\gerenciamento_db\gerenciamento_db\obj\Debug\gerenciamento_db.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guilherme Rodrigues\source\repos\gerenciamento_db\gerenciamento_db\obj\Debug\gerenciamento_db.Properties.Resources.resources
+C:\Users\Guilherme Rodrigues\source\repos\gerenciamento_db\gerenciamento_db\obj\Debug\gerenciamento_db.csproj.GenerateResource.cache
+C:\Users\Guilherme Rodrigues\source\repos\gerenciamento_db\gerenciamento_db\obj\Debug\gerenciamento_db.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Rodrigues\source\repos\gerenciamento_db\gerenciamento_db\obj\Debug\gerenciamento_db.exe
+C:\Users\Guilherme Rodrigues\source\repos\gerenciamento_db\gerenciamento_db\obj\Debug\gerenciamento_db.pdb
+C:\Users\Guilherme Rodrigues\source\repos\gerenciamento_db\gerenciamento_db\obj\Debug\gerenciamento_db.Form1.resources
